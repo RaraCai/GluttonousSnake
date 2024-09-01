@@ -14,7 +14,7 @@ It's welcome to exchange and discuss ideas but pay attention that `plagiarism` i
 * If you choose `standalone mode`, use up-down-left-right direction keys to control your snake to move.  
 ![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/single_player.png)
 * If `two player mode` is chosen, the other snake's direction are controlled by W-S-A-D keys.
-![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/twp_players.png)
+![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/two_players.png)
 * For all snakes, you can click the `space` key to accelerate speed and click again to reset the original speed.
 * You can check your history records and ranking in the `rank` page, but if you close the program, these records will be deleted.
 ![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/rank.png)
