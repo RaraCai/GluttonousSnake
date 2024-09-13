@@ -9,7 +9,7 @@ It's welcome to exchange and discuss ideas but pay attention that `plagiarism` i
 `page.cpp`&`page.h` the page class  
 `snake_main.cpp` the main file
 ## How to use it
-* Download all files into your C++ compilation platform and run the prpject.
+* Download all files into your C++ compilation platform and run the project.
 ![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/menu.png)
 * If you choose `standalone mode`, use up-down-left-right direction keys to control your snake to move.  
 ![image](https://github.com/RaraCai/GluttonousSnake/blob/main/images/single_player.png)
